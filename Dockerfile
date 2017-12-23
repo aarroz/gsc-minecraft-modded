@@ -1,7 +1,8 @@
-FROM java:8
-RUN apt-get install git curl
+FROM egeeio/minecraftserver-modded
 
-RUN mkdir /opt/minecraft
-WORKDIR /opt/minecraft
-RUN curl -o /opt/minecraft/Forge.jar http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.1.2554/forge-1.12.2-14.23.1.2554-installer.jar
-RUN java -jar /opt/minecraft/Forge.jar --installServer
+COPY run.sh /opt/minecraft/run.sh
+COPY cfg/eula.txt /opt/minecraft/eula.txt
+COPY cfg/ops.json /opt/minecraft/ops.json
+COPY cfg/server.properties /opt/minecraft/server.properties
+# COPY mods/mod.jar /opts/minecraftserver/mods/mod.jar
+CMD ["/opt/minecraft/run.sh"]
