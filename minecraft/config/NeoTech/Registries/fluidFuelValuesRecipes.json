@@ -1,0 +1,50 @@
+[
+  {
+    "fluid": "rocket_fuel",
+    "burnTime": 6400
+  },
+  {
+    "fluid": "fire_water",
+    "burnTime": 6857
+  },
+  {
+    "fluid": "biofuel",
+    "burnTime": 4571
+  },
+  {
+    "fluid": "bio.ethanol",
+    "burnTime": 4571
+  },
+  {
+    "fluid": "hydrogen",
+    "burnTime": 247
+  },
+  {
+    "fluid": "ethene",
+    "burnTime": 34286
+  },
+  {
+    "fluid": "ic2biogas",
+    "burnTime": 731
+  },
+  {
+    "fluid": "biodiesel",
+    "burnTime": 2926
+  },
+  {
+    "fluid": "canolaoil",
+    "burnTime": 475
+  },
+  {
+    "fluid": "oil",
+    "burnTime": 1143
+  },
+  {
+    "fluid": "crystaloil",
+    "burnTime": 2286
+  },
+  {
+    "fluid": "empoweredoil",
+    "burnTime": 4000
+  }
+]

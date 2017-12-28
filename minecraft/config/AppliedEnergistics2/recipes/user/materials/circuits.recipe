@@ -1,0 +1,15 @@
+inscribe=
+    forestry:chipsets:3 ae2:material.LogicProcessorPress
+    -> ae2:material.LogicProcessorPrint
+
+inscribe=
+    forestry:chipsets:2 ae2:material.CalcProcessorPress
+    -> ae2:material.CalcProcessorPrint
+
+inscribe=
+    forestry:chipsets ae2:material.EngProcessorPress
+    -> ae2:material.EngProcessorPrint
+
+inscribe=
+    oredictionary:itemSilicon ae2:material.SiliconPress
+    -> ae2:material.SiliconPrint

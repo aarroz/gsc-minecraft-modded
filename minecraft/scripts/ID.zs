@@ -1,0 +1,4 @@
+print("ID");
+
+recipes.removeShaped(<integrateddynamics:energyBattery>.withTag({capacity: 100000}), [[<integrateddynamics:crystalizedMenrilChunk>, <integrateddynamics:crystalizedMenrilBlock>, <integrateddynamics:crystalizedMenrilChunk>], [<integrateddynamics:crystalizedMenrilChunk>, <minecraft:redstone_block>, <integrateddynamics:crystalizedMenrilChunk>], [<integrateddynamics:crystalizedMenrilChunk>, <integrateddynamics:crystalizedMenrilBlock>, <integrateddynamics:crystalizedMenrilChunk>]]);
+recipes.addShaped(<integrateddynamics:energyBattery>, [[<integrateddynamics:crystalizedMenrilChunk>, <integrateddynamics:crystalizedMenrilBlock>, <integrateddynamics:crystalizedMenrilChunk>], [<integrateddynamics:crystalizedMenrilChunk>, <actuallyadditions:blockCrystal>, <integrateddynamics:crystalizedMenrilChunk>], [<integrateddynamics:crystalizedMenrilChunk>, <integrateddynamics:crystalizedMenrilBlock>, <integrateddynamics:crystalizedMenrilChunk>]]);

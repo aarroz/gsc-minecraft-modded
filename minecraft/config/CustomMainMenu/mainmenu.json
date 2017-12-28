@@ -1,0 +1,142 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "ageofengineering:background/AOE-Text.png",
+            "posX" : -100,
+            "posY" : 15,
+            "width" : 200,
+            "height" : 101,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -140,
+            "posY" : 120,
+            "width" : 280,
+            "height" : 29,
+            "alignment" : "top_center",
+			"texture" : "ageofengineering:buttons/yellow/wrench.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -140,
+            "posY" : 145,
+            "width" : 280,
+            "height" : 29,
+			"alignment" : "top_center",
+			"texture" : "ageofengineering:buttons/yellow/wrench2.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -140,
+            "posY" : 170,
+            "width" : 280,
+            "height" : 29,
+			"alignment" : "top_center",
+			"texture" : "ageofengineering:buttons/yellow/wrench.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+            "posX" : -118,
+            "posY" : 210,
+            "width" : 77,
+            "height" : 20,
+			"alignment" : "top_center",
+			"texture" : "ageofengineering:buttons/yellow/borderssmall.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -39,
+            "posY" : 210,
+            "width" : 77,
+            "height" : 20,
+			"alignment" : "top_center",
+			"texture" : "ageofengineering:buttons/yellow/borderssmall.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "Languages",
+            "posX" : 40,
+            "posY" : 210,
+            "width" : 78,
+            "height" : 20,
+			"alignment" : "top_center",
+			"texture" : "ageofengineering:buttons/yellow/language.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Age of Engineering 1.1.2",
+            "posX" : -130,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },  
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "ageofengineering:background/AOE-blur.png",
+			"mode" : "fill"
+		}
+    }
+}
