@@ -1,0 +1,17 @@
+[
+  {"id": "age0", "icon": "item:minecraft:cobblestone", "lang": "00 - Stone Age"},
+  {"id": "age1", "icon": "item:ic2:forge_hammer", "lang": "01 - Industrial Age"},
+  {"id": "age2", "icon": "item:calculator:Calculator", "lang": "02 - Calculation Age"},
+  {"id": "age3", "icon": "item:actuallyadditions:blockEmpowerer", "lang": "03 - Empowering Age"},
+  {"id": "age4", "icon": "item:forestry:sturdyMachine", "lang": "04 - Farming Age"},
+  {"id": "age5", "icon": "item:enderio:itemMachinePart", "lang": "05 - Ender Age"},
+  {"id": "age6", "icon": "item:rftools:machine_frame", "lang": "06 - Automation Age"},
+  {"id": "age7", "icon": "item:ic2:te 1 62", "lang": "07 - Nuclear Age"},
+  {"id": "age8", "icon": "item:calculator:AtomicCalculator", "lang": "08 - Atomic Age"},
+  {"id": "age9", "icon": "item:neotech:electricCrucible", "lang": "09 - New Age"},
+  {"id": "age10", "icon": "item:techreborn:techreborn.machineFrame", "lang": "10 - Technological Age"},
+  {"id": "age11", "icon": "item:libvulpes:structureMachine", "lang": "11 - Space Age"},
+  {"id": "age12", "icon": "item:mekanism:BasicBlock 1 8", "lang": "12 - Mechanical Age"},
+  {"id": "age13", "icon": "item:draconicevolution:draconic_core", "lang": "13 - Draconic Age"},
+  {"id": "age14", "icon": "item:extrautils2:angelring", "lang": "14 - Creative Age"}
+]

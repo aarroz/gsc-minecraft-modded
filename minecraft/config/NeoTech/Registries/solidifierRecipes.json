@@ -1,0 +1,137 @@
+[
+  {
+    "input": "steel:1296",
+    "ore": "blockRefinedIron",
+    "output": "techreborn:techreborn.storage2:10"
+  },
+  {
+    "input": "steel:144",
+    "ore": "ingotRefinedIron",
+    "output": "techreborn:ingot:19"
+  },
+  {
+    "input": "steel:16",
+    "ore": "nuggetRefinedIron",
+    "output": "techreborn:nuggets:19"
+  },
+  {
+    "input": "lead:1296",
+    "ore": "blockLead",
+    "output": "immersiveengineering:storage:2"
+  },
+  {
+    "input": "lead:144",
+    "ore": "ingotLead",
+    "output": "immersiveengineering:metal:2"
+  },
+  {
+    "input": "lead:16",
+    "ore": "nuggetLead",
+    "output": "immersiveengineering:metal:22"
+  },
+  {
+    "input": "bronze:1296",
+    "ore": "blockBronze",
+    "output": "ic2:resource:5"
+  },
+  {
+    "input": "bronze:144",
+    "ore": "ingotBronze",
+    "output": "ic2:ingot:1"
+  },
+  {
+    "input": "bronze:16",
+    "ore": "nuggetBronze",
+    "output": "neotech:nuggetBronze:0"
+  },
+  {
+    "input": "tin:1296",
+    "ore": "blockTin",
+    "output": "ic2:resource:9"
+  },
+  {
+    "input": "tin:144",
+    "ore": "ingotTin",
+    "output": "ic2:ingot:6"
+  },
+  {
+    "input": "tin:16",
+    "ore": "nuggetTin",
+    "output": "neotech:nuggetTin:0"
+  },
+  {
+    "input": "copper:1296",
+    "ore": "blockCopper",
+    "output": "immersiveengineering:storage:0"
+  },
+  {
+    "input": "copper:144",
+    "ore": "ingotCopper",
+    "output": "immersiveengineering:metal:0"
+  },
+  {
+    "input": "copper:16",
+    "ore": "nuggetCopper",
+    "output": "immersiveengineering:metal:20"
+  },
+  {
+    "input": "iron:16",
+    "ore": "nuggetIron",
+    "output": "immersiveengineering:metal:29"
+  },
+  {
+    "input": "silver:1296",
+    "ore": "blockSilver",
+    "output": "immersiveengineering:storage:3"
+  },
+  {
+    "input": "silver:144",
+    "ore": "ingotSilver",
+    "output": "immersiveengineering:metal:3"
+  },
+  {
+    "input": "silver:16",
+    "ore": "nuggetSilver",
+    "output": "immersiveengineering:metal:23"
+  },
+  {
+    "input": "iron:1296",
+    "ore": "blockIron",
+    "output": "minecraft:iron_block:0"
+  },
+  {
+    "input": "iron:144",
+    "ore": "ingotIron",
+    "output": "minecraft:iron_ingot:0"
+  },
+  {
+    "input": "gold:1296",
+    "ore": "blockGold",
+    "output": "minecraft:gold_block:0"
+  },
+  {
+    "input": "gold:144",
+    "ore": "ingotGold",
+    "output": "minecraft:gold_ingot:0"
+  },
+  {
+    "input": "gold:16",
+    "ore": "nuggetGold",
+    "output": "minecraft:gold_nugget:0"
+  },
+  {
+    "input": "carbon:144",
+    "ore": "",
+    "output": "minecraft:coal:0"
+  },
+  {
+    "input": "carbon:1296",
+    "ore": "",
+    "output": "minecraft:coal_block:0"
+  },
+  {
+    "input": "obsidian:288",
+    "ore": "obsidian",
+    "output": "minecraft:obsidian:0"
+  }
+]

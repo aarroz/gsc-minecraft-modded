@@ -1,0 +1,9 @@
+Before you report a bug, please be sure to be on the latest version of the pack,
+also I want to be clear that Optifine is not supported, so please remove it and report the bug only if the problem still exists.
+
+Also be sure when you report the bug - if it's a crash - to provide a gist or pastebin link to the crash log.
+
+Known bugs that you don't need to report:
+
+- JEI shows removed recipes from Calculator and Forestry and doesn't show added Metal Former and Macerator recipes from IC2
+- TechReborn bugs #954, #955, #962 (see https://github.com/TechReborn/TechReborn/issues)

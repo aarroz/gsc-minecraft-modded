@@ -1,0 +1,373 @@
+[
+  {
+    "input": "oreRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 12,
+    "outputSecondary": "minecraft:redstone:0",
+    "percentChance": 20
+  },
+  {
+    "input": "oreLapis",
+    "output": "minecraft:dye:4",
+    "qty": 8,
+    "outputSecondary": "minecraft:dye:4",
+    "percentChance": 20
+  },
+  {
+    "input": "itemBlazeRod",
+    "output": "minecraft:blaze_powder:0",
+    "qty": 4,
+    "outputSecondary": "minecraft:blaze_powder:0",
+    "percentChance": 15
+  },
+  {
+    "input": "cobblestone",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": "minecraft:gravel:0",
+    "percentChance": 10
+  },
+  {
+    "input": "bone",
+    "output": "minecraft:dye:15",
+    "qty": 8,
+    "outputSecondary": "minecraft:dye:15",
+    "percentChance": 10
+  },
+  {
+    "input": "oreQuartz",
+    "output": "minecraft:quartz:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:quartz:0",
+    "percentChance": 50
+  },
+  {
+    "input": "minecraft:clay:0",
+    "output": "minecraft:clay_ball:0",
+    "qty": 4,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreDiamond",
+    "output": "minecraft:diamond:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:diamond:0",
+    "percentChance": 5
+  },
+  {
+    "input": "oreEmerald",
+    "output": "minecraft:emerald:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:emerald:0",
+    "percentChance": 5
+  },
+  {
+    "input": "glowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 4,
+    "outputSecondary": "minecraft:glowstone_dust:0",
+    "percentChance": 5
+  },
+  {
+    "input": "oreCoal",
+    "output": "minecraft:coal:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:diamond:0",
+    "percentChance": 1
+  },
+  {
+    "input": "minecraft:wool:32767",
+    "output": "minecraft:string:0",
+    "qty": 4,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "blockGlass",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "gravel",
+    "output": "minecraft:flint:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:flint:0",
+    "percentChance": 10
+  },
+  {
+    "input": "ingotIron",
+    "output": "immersiveengineering:metal:18",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotGold",
+    "output": "immersiveengineering:metal:19",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCopper",
+    "output": "immersiveengineering:metal:9",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotAluminum",
+    "output": "immersiveengineering:metal:10",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotLead",
+    "output": "immersiveengineering:metal:11",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotSilver",
+    "output": "immersiveengineering:metal:12",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotNickel",
+    "output": "immersiveengineering:metal:13",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotUranium",
+    "output": "immersiveengineering:metal:14",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotConstantan",
+    "output": "immersiveengineering:metal:15",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotElectrum",
+    "output": "immersiveengineering:metal:16",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotSteel",
+    "output": "immersiveengineering:metal:17",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreCopper",
+    "output": "immersiveengineering:metal:9",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreAluminum",
+    "output": "immersiveengineering:metal:10",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreLead",
+    "output": "immersiveengineering:metal:11",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreSilver",
+    "output": "immersiveengineering:metal:12",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreNickel",
+    "output": "immersiveengineering:metal:13",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreUranium",
+    "output": "immersiveengineering:metal:14",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreIron",
+    "output": "immersiveengineering:metal:18",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreGold",
+    "output": "immersiveengineering:metal:19",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotHOPGraphite",
+    "output": "immersiveengineering:material:18",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreTin",
+    "output": "ic2:dust:17",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreSulfur",
+    "output": "ic2:dust:16",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotBronze",
+    "output": "ic2:dust:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotTin",
+    "output": "ic2:dust:17",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotDraconium",
+    "output": "draconicevolution:draconium_dust:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreDraconium",
+    "output": "draconicevolution:draconium_dust:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreSaltpeter",
+    "output": "railcraft:dust:2",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreQuartzBlack",
+    "output": "actuallyadditions:itemDust:7",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreCertusQuartz",
+    "output": "appliedenergistics2:material:2",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotEnrichedGold",
+    "output": "calculator:EnrichedGold:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotFoolsGold",
+    "output": "calculator:EnrichedGold:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotYellorium",
+    "output": "bigreactors:dustMetals:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCyanite",
+    "output": "bigreactors:dustMetals:1",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotGraphite",
+    "output": "bigreactors:dustMetals:2",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotBlutonium",
+    "output": "bigreactors:dustMetals:3",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotLudicrite",
+    "output": "bigreactors:dustMetals:4",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotPlutonium",
+    "output": "bigreactors:dustMetals:3",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreYellorium",
+    "output": "bigreactors:dustMetals:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "minecraft:yellow_flower:0",
+    "output": "minecraft:dye:11",
+    "qty": 3,
+    "outputSecondary": "",
+    "percentChance": 0
+  }
+]

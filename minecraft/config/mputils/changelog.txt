@@ -1,0 +1,319 @@
+§lAge of Engineering§r
+
+§n1.1.2 (2017/11/22)§r
+
+- Updated Forge
+- Updated Mods
+- Downgraded McJtyLib to fix RFTools Manual Crash
+- Removed Integrated Dynamics Energy Battery Redstone recipe (unintentionally re-added in 1.1.1)
+- Fixed recipes requiring Neotech batteries
+- Added planet ores to Laser Drill
+
+§n1.1.1c (2017/09/17)§r
+
+- HOTFIX 2: Updated Calculator to fix Greenhouse bug
+
+§n1.1.1b (2017/09/15)§r
+
+- HOTFIX: Updated Chisel to prevent dedicated server crash
+
+§n1.1.1 (2017/09/13)§r
+
+- Updated Forge
+- Updated Mods (including Calculator, fixing several bugs)
+- Fixing not being able to combine Integrated Dynamics Batteries
+- Increased Energy Throughput of Dimensional Transceiver
+- Changed Recipe of TechReborn Windmill
+
+§n1.1.0 (2017/08/28)§r
+
+- Updated Mods (including CustomAchievements: changing some bugs and changing trophy model)
+- Blacklist Forge Power in Mekanism (again)
+- Remove Slimeball conversion
+- Remove Carbon Dust to Coal Block recipe
+
+§n1.0.5 (2017/08/07)§r
+
+- Updated Forge
+- Updated mods
+- Made Iridium Bees useful again
+- Added Draconic Fusion Crafting recipes as late game alternative to Empowerer
+- Disabled smelting of Redstone in Tinkers Smeltery
+- Changed recipe for new Orchid Tubes to match other tubes
+- Set a troll value for Basalt UUM replication
+- Fixed some usage of IE Bauxite if you obtained it
+
+§n1.0.4 (2017/07/22)§r
+
+- Mods updated
+- Added Swing Through Grass
+- Added Mod Name Tooltip
+- Added Bad Wither No Cookie!
+- Added CalcCrT which fixes the fake Calculator recipes in JEI
+- Added ExU2 default Chunkloader recipe for servers where FTBUtils chunkloading doesn't work
+- Added Pure Certus and Fluix recipe for those who forget to grow the seeds in advance
+- Fixed Iridium Alloy Ingot recipe to oredict Diamond Dust
+- Fixed Advanced Solar Panels recipe to use oredict circuits
+- Fixed all the additional IC2 machines recipes now showing correctly in JEI, fixing "modifications stuck" message at the same time
+- Added IC2 Block Cutter recipes
+- Changed Wither Dust Block recipe
+- Changed Angel Ring recipe so that you get Soularium Jetpack back
+- Removed TechReborn Tooltips and Mercury Cell Fix as the update should fix those issues now
+- Removed Titanium being able to smelt down in the TC Smeltery
+- Removed the Progressive Automation Capacitors and changed ER Power Tap accordingly
+- Removed expensive crafting recipes for Advanced Rocketry Gears
+- Disabled Stable Stone Replication
+- Edited a lot of sections in the guide
+
+§n1.0.3 (2017/07/05)§r
+
+- Mods updated
+- Added TOP Addons
+- Fixed Mekanism Battery recipe
+- Removed OreDict of IC2 and TechReborn Machine Frames
+- Removed Mekanism Bronze Tools
+- Disabled replication of Advanced Rocketry Machine Structures
+- Fixed making Titanium in Arc Furnace
+- Fixed Neotech Elytra Upgrade giving back Elytra on craft
+- Fixed 60k Helium Coolant Cell recipe
+- Fixed recently added IE Plates recipes
+- Disabled smelting of Glowstone in Smeltery (despite JEI saying otherwise)
+- Disabled Lush Caves on planets
+- Enabled being able to respawn on planets with breathable atmosphere if you set your spawn there
+- Added Calculator Amethyst & Tanzanite to Compacting Drawers
+
+§n1.0.2 (2017/06/20)§r
+
+- Forge updated
+- Mods updated
+- Added Tesla API to let AA charge EnderIO items
+- Added ConnectedTexturesMod (new dependancy of Chisel)
+- Added Tooltips (including power requirements for empowering)
+- Disabled Tuberous Jetpack
+- Disabled IDSU & AESU
+- Disabled Stone Armor
+- Disabled Void Glass
+- Changed TR tools to require IC2 Overclocker
+- Changed IE Garden Cloche recipe
+- Lowered Power Generation of Conductor Mast
+- Hopefully fixed Creative Energy Cube recipes this time
+
+§n1.0.1 (2017/05/30)§r
+
+- Forge updated
+- Mods updated
+- Added Quantum Storage to replace TR versions
+- Fixed Client Crash when going through the Creative Tabs
+- Fixed Creative Energy Cube to Creative Capacitor Bank recipe
+- Fixed Creative Vending Upgrade recipe sometimes not working
+- Creative Vending Upgrade gives you 2 now
+- Fixed Iridium Nugget to the correct Iridium Ingot recipe
+- Added IE Slag to make IE Blast Furnace
+- Fix Forge Hammer Dupe
+- Made Tooltips red as many still missed them
+- Added Tooltips for which items trigger which Age
+- Added Tooltip to Singularity in addition to note in the guide
+- Added Bronze Gear to Metal Press
+- Fixed Digital Miner recipe
+- Changed Cloche recipe
+- Changed Atomic Reconstructor recipe
+- Reset RFTools Config to fix Spawner problems
+- Added more clarifications to the guide
+
+§n1.0.0 (2017/05/13)§r
+
+- Updated mods
+- Added Wireless Crafting Terminal
+- Changed recipe for the Garden Cloche from the new IE update
+- Disabled some usage of Base/Modern Metals if you somehow get them
+- Removed Smelting of Osmium as I must have forgotten that
+- Added Prunae Seeds to Squeezer (not showing in JEI though)
+- Fixed getting Chiseled Cobalt Block from Smeltery
+- Added recipe for Quantum Generator
+- Increased Rarity 6 Dimlet chance slightly
+- Increased Power Use for EnderIO Farming Station
+- Added tooltips to disabled recipes because I don't see those bugs getting fixed soon
+- Added more clarifications to the guide
+
+§n0.4.3 (2017/05/08)§r
+
+- Mods updated
+- Downgraded FTBU and FTBLib as the update messed up the guide layout
+- Fixed adding and removing modules from Storage Tablets
+- Removed smelting of bucket in Smeltery (although it still shows in JEI, sigh)
+- Removed Advanced Power Cube and Neotech RF Storage and adjusted the recipe for the Extreme Reactors Power Taps accordingly
+- Changed some wordings in the guide
+
+§n0.4.2 (2017/05/02)§r
+
+IMPORTANT: Just again like in 0.4.0: This update fixes several issues that affect gameplay in the Space Age.
+You can't skip this update to fix it as the important config option reverts back after starting the game once.
+Please make sure to backup the world before updating (as usual) especially if you were in space already.
+
+- Mods updated (including the Chest Transporter fix)
+- Added Better Achievements
+- Added crafting recipes to trigger achievements/trophies for teams or autocrafting
+- Changed Rain Tank recipe
+- Added Mooshroom Soul Vial recipe
+- Fixed moon orbit being on top of each other
+- Made some planets slightly bigger as they were barely seeable
+
+§n0.4.1b (2017/04/23)§r
+
+- HOTFIX: Reverted Calculator+SonarCore to old version. The newer version fixed outputting power from Advanced Power Cube, but introduced a new bug where the Locator and Mast don't output power to non-Calculator cables/batteries. The new bug seems worse, so I decided to revert the version. You might want to stay on 0.4.1 if you're still in the early game.
+
+§n0.4.1 (2017/04/23)§r
+
+- Mods updated, Forge updated
+- Added empty Energy Crystal to OreDict
+- Removed Uranium 238 to Block conversion
+- Added tooltips for TechReborn machines until bugs are fixed
+- Fixed Creative Capacitor Bank to Mekanism Creative Cube recipe
+- Fixed Mekanism Wind Generator recipe
+- Changed recipes for the Storage Tablet, Remote Storage and Storage Modules
+- Changed recipe of ESD
+- Added some clarifications to the guide
+
+§n0.4.0 (2017/04/17)§r
+
+IMPORTANT: This update fixes several issues that affect gameplay in the Space Age.
+You can't skip this update to fix it as the important config option reverts back after starting the game once.
+Please make sure to backup the world before updating (as usual) especially if you were in space already.
+
+- Mods updated (Advanced Rocketry fixed issue that all planets generate as Gas Giants)
+- Disabled Slime Islands in the Space Station Dimension
+- Specified planets from Alpha Centauri as they somehow don't generate random anymore
+- Added recipe to clear Oil from Oil Generator
+- Disabled Yellorium to Uranium OreDict in the config rather than in Crafttweaker as there were still exploits
+- Added empty Lapotron Crystal to OreDict
+- Fixed Thick Neutron Reflector recipe
+- Fixed Upgrading Mekanism Factories recipes
+- Hopefully Mekanism being Joules only works now
+- Fixed Extreme Reactors Turbine and Reactor Power Tap recipes
+- Added smelting of Bauxite Dust in TC Smeltery
+- Added TC Smeltery recipes for IC2 Cables
+
+§n0.3.3 (2017/04/08)§r
+
+- A lot of mods updated
+- Temporary Cell Exchange Recipe fixed
+- Extreme Reactors Ore Distribution is now showing up again
+- Changed MT Core recipe so that you can't skip replicating anymore
+- Fixed Electric Alloyer Recipe
+- All Tool Forges other than the Iron one should be hidden again now
+
+§n0.3.2 (2017/04/03)§r
+
+- Some mods updated (fixing the Progressive Automation bug)
+- Added Bed Bugs
+- Removed ores from the IE Excavator
+- Added note to the guide to clarify Aluminum = Bauxite
+- Added note to the guide to clarify how to get Coal Dust
+- Added tooltip to Prunae Seeds
+
+§n0.3.1 (2017/03/30)§r
+
+- Partly fix Tinkers recipes on servers until mod gets updated
+- Changed recipe for Semifluid Generator
+- Mostly fixed creative recipes
+- Changed recipe for Mining Multitool
+- Removed more mod update notifications
+
+§l§n0.3.0 (2017/03/28)§r§r
+
+- Release version
+
+§n0.2.2 (2017/03/15)§r
+
+- Mods updated
+- Re-added the Forestry recipes now that it's working again
+- Hopefully fixed initializing planets
+- Changed Main Menu Layout
+- Fixed giving back Elytra/Jetpack in recipes
+
+§n0.2.1 (2017/03/02)§r
+
+- Mods updated
+- Changed some Advanced Rocketry recipes
+- Added Titanium Plate to Metal Former
+- Unified Void Ore Miner
+
+§n0.2.0 (2017/02/25)§r
+
+- Mods updated
+- Overhaul of TechReborn mainly by removing the duplicate machines and adjusted the recipes requiring them, also disabled Galena and Rubber Tree OreGen
+- Added Advanced Rocketry and Modern Metals for a whole extra new age
+- Added Benitoite to Void Ore Miner
+- EnvironmentalTech Flight Modifier requires Jetpack but gives Jetpack back
+- Added note about Pure Fluix in addition to Pure Certus Quartz
+- Added End Forged Hoe to Farming Station
+- Moved the Atomic Multiplier to a later Age
+
+§n0.1.6 (2017/01/29)§r
+
+- Mods updated
+- Added Dark Utilities
+- Added Custom Main Menu
+- Removed other Slime Boots
+- Hopefully fixed the Solar Flux Reborn config problem
+
+§n0.1.5b (2017/01/23)§r
+
+- Fixed crashes opening the guide or getting the Angel Ring Trophy
+
+§n0.1.5 (2017/01/23)§r
+
+- Mods updated
+- Made RFTools Control Node cheaper
+- Lead Ingot from IC2 can now be crafted into nuggets
+- Added IC2 crushed ores to the dust ore dictionary
+- Added note to guide on how to get the achievements/trophies for ages 4-6
+- Disable Ore gen of Immersive Engineering Bauxite
+- Changed Endergenic Generator Recipe
+- Disable the Update Notification for kroesers mods
+- Re-added the Clearing Quarry to Quarry recipe
+
+§n0.1.4 (2017/01/15)§r
+
+- Mods updated
+- Precision Chamber requires Atomic Calculator as originally intended
+- Removed new EnderIO Compressed Sand to Silicon Recipe
+- Fixed Quarry recipe
+- Disabled higher tier Solar Panels recently added from Solar Flux Reborn (might re-add them later, but thinking about recipes now)
+- Added recipe for Last Cable
+- Added Tiny Progressions
+
+§n0.1.3 (2017/01/09)§r
+
+- Mods updated, containing the Calculator Capability fix
+- Made Lava Factory cheaper as lava power is disabled anyway
+- Disabled Smelting of Yellorite Ore to Uranium
+- Temp Silicon Recipe as Centrifuge is now bugged as well
+- Switched Power Requirements of Empowered Blocks to make it easier early game
+- Made Conduit Facades cheaper given that Conduit Binder is harder to make
+- Added Wheat to Seeds recipe
+- Added Bauxite to SAG Mill
+
+§n0.1.2 (2017/01/05)§r
+
+- A lot of mods updated
+- Added More Overlays
+- Empowerer recipes fix for the new laser renderer
+- Re-added Atomic Reconstructor Prismarine recipe
+- Added some plate recipes to the Metal Former and added some ores to dust recipes to the Macerator, unfortunately the new CraftTweaker update breaks them and going back to the old version breaks other stuff
+
+§n0.1.1 (2017/01/02)§r
+
+- Added Bauxite Dust to Aluminum Ingot Furnace Recipe
+- Added TechReborn Bauxite to be smelted in Smeltery
+- Changed Recipe of Coke Oven Bricks (Purple Slime Islands are rarer than I thought)
+- Tool Forge Recipe will now correctly displayed
+- Many unnecessary Items are now hidden from JEI
+- Removed Simple Generators mod (a second time)
+- Fixed Hopperduct Recipe
+- Changed Recipe of Greenhouse (Red Orchids are also rarer than I thought)
+- Removed all IC2 plates from Smeltery
+
+§n0.1 (2016/12/31)§r
+
+Initial Beta Release

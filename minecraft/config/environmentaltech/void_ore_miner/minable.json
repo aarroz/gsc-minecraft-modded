@@ -1,0 +1,231 @@
+{
+  "items": [],
+  "blocks": [
+    {
+      "id": "mysticalagriculture:inferium_ore",
+      "meta": 0,
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "id": "mysticalagriculture:prosperity_ore",
+      "meta": 0,
+      "focusColor": "light_gray",
+      "weight": 4
+    },
+    {
+      "id": "bigreactors:brore",
+      "meta": 2,
+      "focusColor": "light_blue",
+      "weight": 7
+    },
+    {
+      "id": "neotech:oreCopper",
+      "meta": 0,
+      "focusColor": "orange",
+      "weight": 26
+    },
+    {
+      "id": "neotech:oreTin",
+      "meta": 0,
+      "focusColor": "gray",
+      "weight": 26
+    },
+    {
+      "id": "neotech:oreSilver",
+      "meta": 0,
+      "focusColor": "light_gray",
+      "weight": 20
+    },
+    {
+      "id": "neotech:oreLead",
+      "meta": 0,
+      "focusColor": "purple",
+      "weight": 22
+    },
+    {
+      "id": "ic2:resource",
+      "meta": 4,
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "id": "bigreactors:brore",
+      "meta": 0,
+      "focusColor": "yellow",
+      "weight": 6
+    },
+    {
+      "id": "appliedenergistics2:quartz_ore",
+      "meta": 0,
+      "focusColor": "light_blue",
+      "weight": 8
+    },
+    {
+      "id": "appliedenergistics2:charged_quartz_ore",
+      "meta": 0,
+      "focusColor": "light_blue",
+      "weight": 4
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 6,
+      "focusColor": "red",
+      "weight": 8
+    },
+    {
+      "id": "immersiveengineering:ore",
+      "meta": 4,
+      "focusColor": "gray",
+      "weight": 9
+    },
+    {
+      "id": "tconstruct:ore",
+      "meta": 0,
+      "focusColor": "blue",
+      "weight": 7
+    },
+    {
+      "id": "tconstruct:ore",
+      "meta": 1,
+      "focusColor": "orange",
+      "weight": 7
+    },
+    {
+      "id": "forestry:resources",
+      "meta": 0,
+      "focusColor": "light_blue",
+      "weight": 10
+    },
+    {
+      "id": "draconicevolution:draconium_ore",
+      "meta": 0,
+      "focusColor": "purple",
+      "weight": 4
+    },
+    {
+      "id": "actuallyadditions:blockMisc",
+      "meta": 3,
+      "focusColor": "black",
+      "weight": 14
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 2,
+      "focusColor": "red",
+      "weight": 10
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 10,
+      "focusColor": "green",
+      "weight": 4
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 3,
+      "focusColor": "blue",
+      "weight": 8
+    },
+    {
+      "id": "deepresonance:resonating_ore",
+      "meta": 0,
+      "focusColor": "brown",
+      "weight": 6
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 8,
+      "focusColor": "black",
+      "weight": 4
+    },
+    {
+      "id": "mekanism:OreBlock",
+      "meta": 0,
+      "focusColor": "light_gray",
+      "weight": 14
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 4,
+      "focusColor": "brown",
+      "weight": 14
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 5,
+      "focusColor": "yellow",
+      "weight": 8
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 7,
+      "focusColor": "orange",
+      "weight": 8
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 9,
+      "focusColor": "yellow",
+      "weight": 4
+    },
+    {
+      "id": "techreborn:techreborn.ore",
+      "meta": 11,
+      "focusColor": "blue",
+      "weight": 4
+    }
+  ],
+  "oreDict": [
+    {
+      "oreName": "oreCoal",
+      "focusColor": "black",
+      "weight": 40
+    },
+    {
+      "oreName": "oreIron",
+      "focusColor": "white",
+      "weight": 32
+    },
+    {
+      "oreName": "oreQuartz",
+      "focusColor": "white",
+      "weight": 20
+    },
+    {
+      "oreName": "oreRedstone",
+      "focusColor": "red",
+      "weight": 20
+    },
+    {
+      "oreName": "oreLapis",
+      "focusColor": "blue",
+      "weight": 16
+    },
+    {
+      "oreName": "oreGold",
+      "focusColor": "yellow",
+      "weight": 14
+    },
+    {
+      "oreName": "oreDiamond",
+      "focusColor": "cyan",
+      "weight": 11
+    },
+    {
+      "oreName": "oreEmerald",
+      "focusColor": "lime",
+      "weight": 5
+    },
+    {
+      "oreName": "glowstone",
+      "focusColor": "yellow",
+      "weight": 7
+    },
+    {
+      "oreName": "shardLonsdaleite",
+      "focusColor": "black",
+      "weight": 6
+    }
+  ]
+}
