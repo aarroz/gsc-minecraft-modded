@@ -1,34 +1,38 @@
 version: "2.3"
 services:
   minecraft-modded-server:
-    cpuset: '3'
+    cpuset: '2-3'
     mem_reservation: 4100m
     volumes:
-      - ~/volumes/minecraft-server/logs:/opt/minecraft/logs:Z
-      - ~/volumes/minecraft-server/server:/opt/minecraft/server:Z
-      - ~/volumes/minecraft-server/server_nether:/opt/minecraft/server_nether:Z
-      - ~/volumes/minecraft-server/server_the_end:/opt/minecraft/server_the_end:Z
-      - type: bind
-        source: ./mods
-        target: /opt/minecraft/mods
-      - type: bind
-        source: ./cfg/server.properties
-        target: /opt/minecraft/server.properties
-      - type: bind
-        source: ./cfg/ops.json
-        target: /opt/minecraft/ops.json
-      - type: bind
-        source: ./config/
-        target: /opt/minecraft/config
-      - type: bind
-        source: ./resources
-        target: /opt/minecraft/resources
-      - type: bind
-        source: ./scripts
-        target: /opt/minecraft/scripts
+      - ~/volumes/modded-minecraft-server/logs:/opt/minecraft/logs:Z
+      - ~/volumes/modded-minecraft-server/server:/opt/minecraft/server:Z
+      - ~/volumes/modded-minecraft-server/server_nether:/opt/minecraft/server_nether:Z
+      - ~/volumes/modded-minecraft-server/server_the_end:/opt/minecraft/server_the_end:Z
+      - ./mods:/opt/minecraft/mods:Z
+      - ./config:/opt/minecraft/config:Z
+      - ./scripts:/opt/minecraft/scripts:Z
+      - ./resources:/opt/minecraft/resources:Z
       # - type: bind
-      #   source: ./run.sh
-      #   target: /opt/minecraft/run.sh
+      #   source: ./mods/
+      #   target: /opt/minecraft/mods
+      # - type: bind
+      #   source: ./cfg/server.properties
+      #   target: /opt/minecraft/server.properties
+      # - type: bind
+      #   source: ./cfg/ops.json
+      #   target: /opt/minecraft/ops.json
+      # - type: bind
+      #   source: ./config/
+      #   target: /opt/minecraft/config
+      # - type: bind
+      #   source: ./resources
+      #   target: /opt/minecraft/resources
+      # - type: bind
+      #   source: ./scripts
+      #   target: /opt/minecraft/scripts
+      - type: bind
+        source: ./run.sh
+        target: /opt/minecraft/run.sh
     build:
       context: .
     ports:
