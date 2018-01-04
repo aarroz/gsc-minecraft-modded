@@ -1,15 +1,40 @@
 version: "2.3"
 services:
   minecraft-modded-server:
-    # volumes:
-      # https://github.com/docker/compose/issues/3270
-      # - ~/volumes/minecraft-server/server:/opt/minecraft/server:Z
-      # - ~/volumes/minecraft-server/server_nether:/opt/minecraft/server_nether:Z
-      # - ~/volumes/minecraft-server/server_the_end:/opt/minecraft/server_the_end:Z
-    cpuset: 0-1
-    mem_reservation: 2048m
+    cpuset: '3'
+    mem_reservation: 2064m
+    volumes:
+      - ~/volumes/minecraft-server/logs:/opt/minecraft/logs:Z
+      - ~/volumes/minecraft-server/server:/opt/minecraft/server:Z
+      - ~/volumes/minecraft-server/server_nether:/opt/minecraft/server_nether:Z
+      - ~/volumes/minecraft-server/server_the_end:/opt/minecraft/server_the_end:Z
+      - type: bind
+        source: ./mods/
+        target: /opt/minecraft/mods
+      - type: bind
+        source: ./cfg/server.properties
+        target: /opt/minecraft/server.properties
+      - type: bind
+        source: ./cfg/ops.json
+        target: /opt/minecraft/ops.json
+      - type: bind
+        source: ./config/
+        target: /opt/minecraft/config
+      - type: bind
+        source: ./resources
+        target: /opt/minecraft/resources
+      - type: bind
+        source: ./scripts
+        target: /opt/minecraft/scripts
+      # - type: bind
+      #   source: ./run.sh
+      #   target: /opt/minecraft/run.sh
     build:
       context: .
     ports:
-      - "25565:25565"
-      - "25575:25575"
+      - "25566:25566"
+      - "25576:25576"
+networks:
+  default:
+    external:
+      name: rustdocker_default #TODO, replace this with a sane network
